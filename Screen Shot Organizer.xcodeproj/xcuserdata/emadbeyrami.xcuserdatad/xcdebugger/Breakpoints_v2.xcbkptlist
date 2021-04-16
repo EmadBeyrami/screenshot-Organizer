@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E2B61572-27DF-4AED-9A70-6FB7709B296F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "792862EC-334F-43A2-9507-8B7BECD919A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Screen Shot Organizer/Scenes/ViewControllers/PhotosVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "setupCollectionView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A2ED344-EE0B-4D50-81A2-5F29162F3D90"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Screen Shot Organizer/Scenes/ViewControllers/PhotosVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EC03E5E-100C-4974-ADD6-14D489766C1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Screen Shot Organizer/Scenes/ViewControllers/PhotosVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "PhotosVC"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69095A46-A716-4C68-B31B-DD7C6BD667E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Screen Shot Organizer/DataManager/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "addPhotosToCategory(catId:photo:prevCatid:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB1D9BB4-0300-4C73-AC67-3B1CE586B69E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Screen Shot Organizer/DataManager/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "isAlreadyAdded(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB1D9BB4-0300-4C73-AC67-3B1CE586B69E - 36dc860a7f19a571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Screen_Shot_Organizer.CategoryModel) -&gt; Swift.Bool in Screen_Shot_Organizer.DataManager.(isAlreadyAdded in _D8FCCE8FF94EDC88E8BC1FE9F7987137)(Screen_Shot_Organizer.PhotoModel) -&gt; Swift.Bool"
+                  moduleName = "Screen Shot Organizer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emadbeyrami/Documents/Screen%20Shot%20Organizer/Screen%20Shot%20Organizer/DataManager/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "FB1D9BB4-0300-4C73-AC67-3B1CE586B69E - 8a72ef2e051f5d3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Screen_Shot_Organizer.PhotoModel) -&gt; Swift.Bool in closure #1 (Screen_Shot_Organizer.CategoryModel) -&gt; Swift.Bool in Screen_Shot_Organizer.DataManager.(isAlreadyAdded in _D8FCCE8FF94EDC88E8BC1FE9F7987137)(Screen_Shot_Organizer.PhotoModel) -&gt; Swift.Bool"
+                  moduleName = "Screen Shot Organizer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emadbeyrami/Documents/Screen%20Shot%20Organizer/Screen%20Shot%20Organizer/DataManager/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
